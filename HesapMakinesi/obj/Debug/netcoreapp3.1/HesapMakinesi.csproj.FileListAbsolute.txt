@@ -1,0 +1,16 @@
+D:\Microsoft\Visual Studio\Source\Repos\sayfa45-48_HesapMakinesi\obj\Debug\netcoreapp3.1\sayfa45-48_HesapMakinesi.csproj.AssemblyReference.cache
+D:\Microsoft\Visual Studio\Source\Repos\sayfa45-48_HesapMakinesi\obj\Debug\netcoreapp3.1\sayfa45_48_HesapMakinesi.Form1.resources
+D:\Microsoft\Visual Studio\Source\Repos\sayfa45-48_HesapMakinesi\obj\Debug\netcoreapp3.1\sayfa45-48_HesapMakinesi.csproj.GenerateResource.cache
+D:\Microsoft\Visual Studio\Source\Repos\sayfa45-48_HesapMakinesi\obj\Debug\netcoreapp3.1\sayfa45-48_HesapMakinesi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft\Visual Studio\Source\Repos\sayfa45-48_HesapMakinesi\obj\Debug\netcoreapp3.1\sayfa45-48_HesapMakinesi.AssemblyInfoInputs.cache
+D:\Microsoft\Visual Studio\Source\Repos\sayfa45-48_HesapMakinesi\obj\Debug\netcoreapp3.1\sayfa45-48_HesapMakinesi.AssemblyInfo.cs
+D:\Microsoft\Visual Studio\Source\Repos\sayfa45-48_HesapMakinesi\obj\Debug\netcoreapp3.1\sayfa45-48_HesapMakinesi.csproj.CoreCompileInputs.cache
+D:\Microsoft\Visual Studio\Source\Repos\sayfa45-48_HesapMakinesi\bin\Debug\netcoreapp3.1\sayfa45-48_HesapMakinesi.exe
+D:\Microsoft\Visual Studio\Source\Repos\sayfa45-48_HesapMakinesi\bin\Debug\netcoreapp3.1\sayfa45-48_HesapMakinesi.deps.json
+D:\Microsoft\Visual Studio\Source\Repos\sayfa45-48_HesapMakinesi\bin\Debug\netcoreapp3.1\sayfa45-48_HesapMakinesi.runtimeconfig.json
+D:\Microsoft\Visual Studio\Source\Repos\sayfa45-48_HesapMakinesi\bin\Debug\netcoreapp3.1\sayfa45-48_HesapMakinesi.runtimeconfig.dev.json
+D:\Microsoft\Visual Studio\Source\Repos\sayfa45-48_HesapMakinesi\bin\Debug\netcoreapp3.1\sayfa45-48_HesapMakinesi.dll
+D:\Microsoft\Visual Studio\Source\Repos\sayfa45-48_HesapMakinesi\bin\Debug\netcoreapp3.1\sayfa45-48_HesapMakinesi.pdb
+D:\Microsoft\Visual Studio\Source\Repos\sayfa45-48_HesapMakinesi\obj\Debug\netcoreapp3.1\sayfa45-48_HesapMakinesi.dll
+D:\Microsoft\Visual Studio\Source\Repos\sayfa45-48_HesapMakinesi\obj\Debug\netcoreapp3.1\sayfa45-48_HesapMakinesi.pdb
+D:\Microsoft\Visual Studio\Source\Repos\sayfa45-48_HesapMakinesi\obj\Debug\netcoreapp3.1\sayfa45-48_HesapMakinesi.genruntimeconfig.cache

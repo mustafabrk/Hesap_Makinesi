@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "sayfa45-48_HesapMakinesi/1.0.0": {
+        "runtime": {
+          "sayfa45-48_HesapMakinesi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sayfa45-48_HesapMakinesi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
